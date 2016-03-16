@@ -9,5 +9,4 @@
  * @author Marco
  */
 public class NovoClass {
-    println("Bruno lesado");
-}
+    println("Marco lesad\");
